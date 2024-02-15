@@ -1,0 +1,1 @@
+This project utilizes the LLama 2 language model and the Streamlit framework to create an interactive application for generating blog content. Users can input a blog topic, select a target audience, specify the desired word count, and receive a dynamically generated blog post.
